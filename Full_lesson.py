@@ -1,4 +1,12 @@
- #if statement
+#variables
+x = 10
+y = 12
+
+exampleVar = Bob
+print exampleVar
+
+
+#if statement
     x = 51
     y = 12
     if x > y
@@ -19,9 +27,6 @@ while con < 10:
     con +=1
 
 # the result will be a count from 1-9
-
-
-
 
 #for  loop
 exampleList = [1,2,4,77,89,101]
