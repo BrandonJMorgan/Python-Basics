@@ -10,3 +10,5 @@
         print("X is greater than Y")
         else 
         print("Y is greater than X")
+        
+        #ok so now we will add all the loop stuff etc into one folder
