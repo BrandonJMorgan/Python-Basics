@@ -9,7 +9,19 @@ while con < 10:
 
 
 
-
+#for  loop
 exampleList = [1,2,4,77,89,101]
 for eachNumber in exampleList:
     print(eachNumber)
+
+    
+    
+  #if statement
+    x = 51
+    y = 12
+    if x > y
+        print("X is greater than Y")
+    #out put will be X is greater than y
+    
+    #if else statements
+    
