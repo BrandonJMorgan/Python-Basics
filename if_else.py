@@ -6,4 +6,7 @@
     #out put will be X is greater than y
     
     #if else statements
-    
+     if x > y
+        print("X is greater than Y")
+        else 
+        print("Y is greater than X")
