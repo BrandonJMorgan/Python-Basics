@@ -1,9 +1,17 @@
-from kivy.app import App
-from kivy.uix.button import Button
+x = 200
 
-class TestApp(App):
-        def build(self):
-                return Button(test='Hello World')
+v = 300
 
-TestApp().run()
-            
+if x > v:
+	print("correct")
+else:
+	print("sorry not correct")
+
+
+class calculator:
+	def addition(x,y):
+		add = x + y
+		print(add)
+
+
+calculator.addition(40,5)
