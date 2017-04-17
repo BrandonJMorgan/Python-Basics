@@ -15,7 +15,7 @@ print(houses)
 #for i in houses:
 #	print(houses)
 
-#variables 
+#list
 bob = ["age", 20,]
 print(bob)
 
