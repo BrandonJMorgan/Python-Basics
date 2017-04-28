@@ -6,3 +6,10 @@ Names = ['Allen', 'Brian', 'Brandon', 'Austin', 'Mekenzie', 'Selena']
 #counts from 0 and up
 print ('First person is', Names[0])
 print('Second person is', Names[1])
+
+#now we will sort list out
+dates = [5, 1, 2, 3]
+dates.sort();
+print(dates)
+
+
