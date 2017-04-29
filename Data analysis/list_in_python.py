@@ -6,7 +6,7 @@ computers.append('Apple')
 print('Appended:', computers)
 print(len(computers))
 
-#tuples which are not used much a tuple is the same thing as a list but not as functionals
+#tuples which are not used much as but is practiclly the same
 computers = ('dell', 'alienware', 'hp', 'lenvoe', 'surfacebook')
 print('computers', computers)
 # below we are indexing this works the same in a list just as a tuple 
