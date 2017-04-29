@@ -11,3 +11,5 @@ computers = ('dell', 'alienware', 'hp', 'lenvoe', 'surfacebook')
 print('computers', computers)
 # below we are indexing this works the same in a list just as a tuple 
 print('computers:', computers[-1])
+#the out put will be surfacebook
+#sets in python is the same as tuples or list but with curly brackets
